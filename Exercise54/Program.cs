@@ -16,7 +16,7 @@ Console.WriteLine("Введите количество столбцов: ");
 int columns = Convert.ToInt32(Console.ReadLine());
 
 
-int[,] GetMatrix(int m, int n, int min, int max)
+int[,] GetMatrix(int n, int m, int min, int max)
 {
     int[,] matr = new int[n, m];
     for (int i = 0; i < matr.GetLength(0); i++)
