@@ -1,0 +1,15 @@
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\bin\Debug\net6.0\Exercise58.exe
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\bin\Debug\net6.0\Exercise58.deps.json
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\bin\Debug\net6.0\Exercise58.runtimeconfig.json
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\bin\Debug\net6.0\Exercise58.dll
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\bin\Debug\net6.0\Exercise58.pdb
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.csproj.AssemblyReference.cache
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.AssemblyInfoInputs.cache
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.AssemblyInfo.cs
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.csproj.CoreCompileInputs.cache
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.dll
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\refint\Exercise58.dll
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.pdb
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\Exercise58.genruntimeconfig.cache
+C:\Users\Администратор.DESKTOP-QU2BR32\Documents\GeekBrains обучение\Знакомство с языками программирования\Homework 8\Exercise58\obj\Debug\net6.0\ref\Exercise58.dll
